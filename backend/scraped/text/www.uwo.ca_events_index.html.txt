@@ -1,0 +1,105 @@
+Faculty/Staff Search
+
+First NameLast Name
+
+OR
+
+Department/Unit Search
+
+Search String
+
+
+
+
+Toggle navigation
+
+  * [About Western](https://www.uwo.ca/about/index.html)
+  * [Future Students](https://www.uwo.ca/future_students/index.html)
+  * [Academics](https://www.uwo.ca/academics/index.html)
+  * [Campus Life](https://www.uwo.ca/campus_life/index.html)
+  * [Research](https://www.uwo.ca/research/inex.html)
+
+
+
+Search Website
+
+QUICK LINKS:
+
+  * [WebMail](https://wts.uwo.ca/office_365/index.html)
+  * [Brightspace](https://wts.uwo.ca/owl/index.html)
+  * [Student Services](https://student.uwo.ca/index.html)
+  * [Websites A-Z](https://www.uwo.ca/a-z.html)
+  * [Directory](https://www.uwo.ca/directory.html)
+  * [Events](https://www.uwo.ca/events/index.html)
+  * [Libraries](https://www.lib.uwo.ca/index.html)
+  * [Maps](https://www.uwo.ca/about/visit/maps.html)
+  * [Parking](https://www.uwo.ca/parking/index.html)
+
+
+
+# 
+
+## Search & Filter __ Collapse
+
+## Upcoming Featured Events
+
+__
+
+All Featured Events
+
+Clear All __
+
+## Views
+
+Tomorrow This Week This Weekend Next Week This Month Next Month
+
+## Search Current View
+
+Search
+
+## Date Ranges
+
+Start Date to End Date
+
+## Type
+
+Athletics / Recreation Conference Exhibition International Institutional Lecture / Seminar Performance Tours Training / Workshop Sustainability Wellness
+
+## Audience
+
+Select
+
+Alumni Faculty Future Students Graduate Students Professional Students Postdocs Staff Undergraduate Students General Public
+
+## Departments
+
+Select
+
+Western Univeristy Africa Institute Anatomy & Cell Biology Arthur Labatt Family School of Nursing Biochemistry Bone & Joint Brain & Mind Institute BrainsCAN Brescia School of Food and Nutritional Sciences Campus Security and Emergency Services Canadian Centre & Activity and Aging Centre for Teaching & Learning Centre for Theory & Criticism Centre for Transitional Justice and Post-Conflict Reconstruction Chemistry Classical Studies Computer Science Cronyn Observatory Don Wright Faculty of Music Earth Sciences English & Writing Studies Epidemiology & Biostatistics Equity, Diversity, Inclusion, Decolonization, and Accessibility at FHS Facilities Management Faculty of Arts & Humanities Faculty of Education Faculty of Engineering Faculty of Health Sciences Faculty of Information & Media Studies (FIMS) Faculty of Law Faculty of Science Faculty of Social Science Financial Services Gender, Sexuality & Women's Studies Housing & Ancillary Services Human Resources Indigenous Student Centre Institute for Earth & Space Exploration Interprofessional Education & Practice Ivey Business School Languages & Cultures Learning Development & Success McIntosh Gallery Microbiology & Immunology Morrissette Institute for Entrepreneurship National Centre for Audiology Network for Economic & Social Trends Office of Equity, Diversity & Inclusion Office of Indigenous Initiatives Office of Interprofessional Education & Practice (IPEP) Office of the Provost Office of the Registrar Oncology Pathology & Laboratory Medicine Physics & Astronomy Physiology & Pharmacology Research Data Centre Rotman Institute of Philosophy School for Advanced Studies in the Arts & Humanities School of Communication Sciences and Disorders School of Graduate & Postdoctoral Studies School of Health Studies School of Kinesiology School of Mathematical & Statistical Sciences School of Occupational Therapy School of Physical Therapy Schulich Office of Equity, Diversity, Inclusion & Decolonization Schulich Research Schulich School of Medicine & Dentistry Student Experience University Secretariat University Students' Council (USC) Visual Arts Western Academy for Advanced Research Western Alumni Western Continuing Studies Western International Western Libraries Western Research Western Sustainability Western Technology Services Writing Support Centre
+
+## Subscribe
+
+[__RSS](_data/current.rss) [__iCal](_data/current.ics) [__XML](_data/current.xml) [__JSON](_data/current-live.json)
+
+## Academic Dates
+
+  * [Undergraduate Students](https://www.westerncalendar.uwo.ca/SessionalDates.cfm?SelectedCalendar=Live&ArchiveID=)
+  * [Graduate Students](https://grad.uwo.ca/academics/calendar_of_events.html)
+
+
+
+## Quick Links
+
+  * [Submit your event](https://uwo.eu.qualtrics.com/jfe/form/SV_ai8Xjqbn19v4QhE)
+
+
+
+__ Collapse
+
+__
+
+View More View All
+
+## Subscribe
+
+[__RSS](_data/current.rss) [__iCal](_data/current.ics) [__XML](_data/current.xml) [__JSON](_data/current-live.json)

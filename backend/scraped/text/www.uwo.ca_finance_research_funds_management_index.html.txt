@@ -1,0 +1,403 @@
+Skip to Content
+
+Financial Services Financial Services
+
+Popular Links Popular Links Directory Mail OWL Brightspace Student Services Websites A - Z Events Libraries Maps Parking WesternU
+
+  * [Corporate Accounting](../../accounting/index.html)
+
+    * [Accounts Payable](../../accounting/accounts_payable.html)
+    * [Capital Accounting](../../accounting/capital_accounting.html)
+    * [Endowment & Restricted Funds](../../accounting/endowment_restricted_funds.html)
+    * [Corporate Financial Reporting](../../accounting/corporate_financial_reporting.html)
+    * [Harmonized Sales Tax](../../accounting/hst.html)
+    * [Professional Expense Reimbursement](../../accounting/professional_expense_reimbursement.html)
+    * [Expense Reimbursements](../../accounting/travel_expense_reimbursement.html)
+    * [FAQs](../../accounting/faqs.html)
+
+  * [Financial Systems](../../systems/index.html)
+
+    * [About Western Financials](../../systems/About Western Financials.html)
+    * [Western Financials Classroom Instruction](../../systems/Western Financials Classroom Instruction.html)
+
+  * [Procurement Services](../../procurement/index.html)
+
+    * [Sustainable Procurement](../../procurement/sustainable_procurement/index.html)
+    * [Customs & Logistics](../../procurement/customs/index.html)
+    * [Preparing to Buy](../../procurement/preparing_buy/index.html)
+    * [After the Buy](../../procurement/after_the_buy/index.html)
+    * [Mustang Market](../../procurement/mustang_market/index.html)
+    * [Preferred Vendors](../../procurement/preferred_vendors/index.html)
+    * [Preparing to Travel](../../procurement/preparing_to_travel/index.html)
+    * [Research Equipment Budgets](../../procurement/research_project_budgets/index.html)
+    * [Vendor Resources](../../procurement/vendors/index.html)
+    * [Procurement Post](../../procurement/procurement_post/index.html)
+    * [FAQs](../../procurement/faqs.html)
+
+  * [Research Finance](../index.html)
+
+    * [Financial Management of Research Projects](index.html)
+    * [Tri-Agency Information](../tri_agency/index.html)
+    * [Major Sponsor Guidelines](../sponsor_guidelines.html)
+    * [Institutional Projects - Post Award](../instutional_projects_post_award/index.html)
+    * [FAQs](../faqs.html)
+
+  * [Treasury & Investments](../../treasury/index.html)
+
+    * [Accounts Receivable](../../treasury/accounts_receivable/index.html)
+    * [Central Cashier](../../treasury/cashier.html)
+    * [Employee Computer Purchase Plan](../../treasury/computer_purchase.html)
+    * [Guaranteed Housing Loan Plan](../../treasury/housing_loan.html)
+    * [Operating & Endowment Fund Investing](../../treasury/investing.html)
+    * [FAQs](../../treasury/faqs.html)
+
+
+
+  * MENU
+    * [Corporate Accounting](../../accounting/index.html)
+    * [Financial Systems](../../systems/index.html)
+    * [Procurement Services](../../procurement/index.html)
+    * [Research Finance](../index.html)
+    * [Treasury & Investments](../../treasury/index.html)
+
+
+
+
+  * [Home](../../index.html)
+  * [Research Finance](../index.html)
+  * Financial Management of Research Projects
+
+
+
+## [Research Finance](../index.html)
+
+  * [Financial Management of Research Projects](index.html)
+  * [Tri-Agency Information](../tri_agency/index.html)
+  * [Major Sponsor Guidelines](../sponsor_guidelines.html)
+  * [Institutional Projects - Post Award](../instutional_projects_post_award/index.html)
+  * [US Federal Award Requirements](../us_federal_award_requirements/index.html)
+  * [FAQs](../faqs.html)
+
+
+
+### Contact Us
+
+519-661-2111 ext 83026   
+[resfin@uwo.ca](mailto:resfin@uwo.ca)  
+Suite 6100   
+Support Services Bld.  
+1393 Western Road   
+Western University   
+N6G 1G9
+
+  * [Staff Directory](../../staff_directory/research_finance.html "Staff Directory")
+  * [Who do I contact?](../RF-contact.pdf)
+
+
+
+## Financial Management of Research Funds
+
+This online reference tool was designed to assist Researchers and Administrators with the financial management of research funds.  
+  
+Learn more about the various aspects of managing research funds to ensure they are utilized in accordance with the terms, conditions and regulations of the funding sources and University policies.
+
+### Accountabilities 
+
+#### Researcher Accountabilities
+
+The Principal Investigator (PI) is the lead researcher who is responsible for carrying out research activities. The Account Holder is the individual under whose name or title the research project is held. The Account Holder is most often the Principal Investigator; however, there are instances where a Department Chair or Dean is the Account Holder. The Account Holder responsibilities apply regardless of the role within the research project. As funds are awarded, the Account Holder assumes responsibility for using the funds for the purpose for which they were awarded and for complying with the guidelines and policies of the sponsor and the University. It is also important that the PI understands the allowable expenses that can be charged to a research project based on the funding source and program.  
+  
+
+
+  * [Principal Investigator / Account Holder Responsibilities](../../restricted/training_reference_content/research_finance/documents/pi_account_holder_responsibilities.pdf)
+
+  
+
+
+#### PI Authorization
+
+Account Holders/Principal Investigators are the primary signing authority on research projects and they must approve all expenditures that are applied to their research projects. Proof of authorization and related supporting documentation must be retained for audit purposes. If necessary, the Account Holder may delegate his/her signing authority by completing the [Delegation of Signing Authority form](../../forms/docs/research/research_delegation_authority.pdf "Delegation of Signing Authority").
+
+#### Unit Dean/Chair and Administrator Responsibilities
+
+As research funds are awarded to individual researchers and/or to the institution, the University has a stewardship responsibility to ensure the funds are utilized for the designated purposes for which they were awarded and to comply with corporate and sponsor policies and guidelines. This shared responsibility is distributed to several stakeholders including Researchers, Faculty Deans and Department Chairs, Faculty and Department Administrators, Financial Services and other central operations.
+
+  * [Faculty Dean and Department Chair Responsibilities](../../forms/docs/research/department_chair_responsibilities.pdf)
+  * [Faculty and Department Administrator Responsibilities](../../forms/docs/research/department_faculty_responsibilities.pdf)
+
+
+
+#### Accountability Reports
+
+As part of Western's accountability framework and increased transparency of financial management, researchers are required to complete an Annual Accountability Report. Completion of this report assures the University that the researcher understands his/her responsibilities when awarded research funds and that the funds are handled in a manner that meets the financial control standards of the University and funding partners.
+
+  * [Annual Accountability Report](../../restricted/training_reference_content/research_finance/documents/Research Accountability Report Statements.pdf)
+
+
+
+### Delegation of Signing Authority 
+
+A primary responsibility of the account holder is to authorize expenditures on their research projects. An account holder can delegate this authority. Delegation of Signing Authority is the sharing of authority with others for approving project expenditures. Expenses should not be charged to a project by anyone other than the Account Holder unless there is a Delegation of Signing Authority (DoSA) in place. A delegate must be an individual recognized by the Western Human Resources system who has been provided signing authority through the required DoSA form by the Account Holder.   
+  
+The Account Holder can delegate responsibility for authorizing expenses; however, he/she cannot delegate accountability for the management of the funds and the project. The Account Holder, therefore, remains fully responsible for the conduct of the research compliance with sponsor guidelines and University policies as well as the financial management of the funds.   
+  
+The policy below outlines the requirements for delegating signing authority on a research project and the procedures for documenting such delegations. This ensures expenditures are authorized by the approved delegate and are in compliance with the Tri-Agency and other funding agencies' guidelines.   
+  
+
+
+  * [Delegation of Signing Authority for Research Project Expenditures Policy ](../../forms/docs/research/Signing_delegation_policy.pdf)
+
+
+
+To delegate signing authority, please complete the following DOSA form: 
+
+  * [Delegation of Signing Authority Form](../../forms/new-forms-process.html "Research Delegation of Authority Form")
+
+
+
+To determine if you should delegate signing authority, please refer to the following decision tree: 
+
+  * [When do I Need to Complete a DoSA](../../restricted/training_reference_content/research_finance/documents/When DoSA form is required June 2015.pdf)?
+
+
+
+### Project Activation 
+
+#### Setting up a Research Project
+
+A proposal record in the ROLA (Research On-Line Administration) System must be established for each research project at the time of grant application or contract approval. ROLA maintains electronic approvals from the respective Department Chair, Faculty Associate Dean (Research) and Western Research Development & Services (RD&S) as well as electronic related documents. Contact RD&S at [rolahelp@uwo.ca](mailto:rolahelp@uwo.ca) or at extension 83136 for assistance.   
+  
+Once awarded and all conditions met (including Ethics, Animal and Biohazard Certifications), RD&S will provide authorization for Research Finance to activate the project in Western Financials (PeopleSoft). The Account Holder and his/her Department/Faculty Administrator will receive email notification confirming the project number and speedcode, project dates, budget period(s) and budget amount(s).   
+  
+
+
+#### What is a Speedcode?
+
+A speedcode represents a larger combination of chartfields comprised of Fund, Department and Project Number. Speedcodes are 4 digits in length and allow for easy use of data entry and placing orders in Mustang Market and with campus retail operations. Speedcodes are used in conjunction with a 6 digit revenue or expense code, depending on the transaction type.
+
+### Receiving and Sending Funds 
+
+#### General Information
+
+All funds relating to research projects at Western are deposited by Research Finance. If you receive funds directly, contact your [Financial Officer in Research Finance](RF-contact-June-2024.pdf "Research Finance Directory").  
+  
+
+
+#### Invoicing for Funds
+
+If a research project is a research contract, the signed contract will stipulate within the payment terms whether or not the company requires scheduled invoicing. Your Financial Officer in Research Finance will invoice the company as per the signed contract. If an invoice requires certain deliverables prior to invoicing, the Account Holder must communicate the status of these deliverables to their [Finance Officer in Research Finance](RF-contact-June-20241.pdf "Research Finance Directory").  
+  
+
+
+#### Sending Funds to Co-applicants/Collaborators
+
+Where allowable by the sponsor, funding can be sent to co-applicants or collaborators at other institutions. Only the Account Holder can approve such a transaction and must provide the following information: name of co-applicant/collaborator and institution, amount, intended use of the funds and time period for utilizing the funds. Research Finance will facilitate the transfer of any Tri-Agency funds. For other funding sources, the RD&S contracts group will draft a sub-grant agreement to be signed off by both Western and the receiving institution.  
+  
+
+
+#### Receiving Funds from Co-applicants/Collaborators
+
+The initiating institution must send a letter of transfer or an agreement to our RD&S contracts group for review and for institutional approval. A ROLA record will then be initiated, followed by activation of a project in Western Financials (PeopleSoft).  
+  
+
+
+#### Arriving at Western - Transfer Funds from Another Institution
+
+If you are a Principal Investigator arriving at Western from another Canadian Institution, you may be able to transfer your research funds to Western. Before leaving your institution contact their Research Office to initiate the process; Western's [Research Development and Services](https://uwo.ca/research/procedures/transfer_grants.html "Research Western") will facilitate the transfer.   
+  
+
+
+#### Leaving Western - Transfer Funds to Another Institution
+
+If you are a Principal Investigator leaving Western to go to another Canadian Institution, you may be able to transfer external funds to the other institution. Contact Western's [Research Development and Services](https://uwo.ca/research/procedures/transfer_grants.html "Research Western") to facilitate this process with your new institution.
+
+### Spending Project Funds 
+
+#### Hiring Students and Research Staff
+
+University recruitment practices must be followed when hiring staff and students. Department administrators are responsible for completing the payroll paperwork for any students or research staff paid from research projects. Contact your department administrator for assistance. Please be aware of any sponsor restrictions when hiring research team members (i.e. salary limits, length of award period).  
+  
+Many sponsors require detailed reporting of how personnel funds are utilized. To facilitate this process, use the appropriate salary expense codes when completing the payroll paperwork. Here is a list of [valid salary accounts ](../../restricted/training_reference_content/research_finance/documents/List of Valid Salary Benefit General Ledger Accounts for Research Projects.pdf)for research projects.  
+  
+
+
+#### Procuring Goods and Services
+
+It is imperative that sound procurement practices are followed and that [MAPP 2.8 - Procurement of Materials & Services](http://www.uwo.ca/univsec/pdf/policies_procedures/section2/mapp28.pdf) is complied with when procuring goods and services. 
+
+Competitive bid process requirements must be adhered to - refer to the [Preparing to Buy](../../procurement/preparing_buy/index.html "Preparing to Buy") section of Procurement Services' website for more information. They are available to assist with sourcing the appropriate vendor and negotiating price terms where applicable.
+
+[Mustang Market](../../procurement/mustang_market/index.html) is Western’s e-procurement system for sourcing scientific products, supplies, electronics and other goods and services.
+
+#### The Most Common Methods of Purchasing on Research Grants:
+
+**Mustang Market** is Western’s web-based sourcing and requisitioning tool. It is a cost effective and efficient method to shop for research supplies and services. For assistance, contact your unit administrator or refer to the [Procurement Services](../../procurement/index.html) website.
+
+**Speedcodes** are used within Mustang Market and at internal service operations (e.g. ChemBio Stores, University Machine Services). Individuals that are not account holders must have delegated signing authority to initiate such transactions.
+
+**The VISA Purchasing Card** (P-Card) can be an alternative method for procurement of goods and services of relatively low dollar value and as an alternative to the use of petty cash, instances where a regular purchase order is not accepted by a vendor, or a vendor is not available through Mustang Market.
+
+The P-Card cannot be used for travel and hospitality related expenses unless you are a unit travel coordinator.
+
+When utilizing a P-Card, note that cardholders are expected to ensure that all transactions are eligible expenses as per the funding agency guidelines and will be held personally responsible for all ineligible expenditures. Supporting documentation must be retained for seven years and is subject to audit.
+
+[Read Procurement Card Guidelines ](../../procurement/preparing_buy/Purchasing_methods.html) within Ordering Methods on the Procurement website for more information.
+
+#### Supporting Documentation
+
+All related documentation that supports the expenses charged to research projects (including PI authorization and how the expense relates to the project) should be retained for audit and review purposes.
+
+#### How to Pay an Invoice
+
+All invoices are processed through Accounts Payable and must be tied to a valid Purchase Order (PO). If you have received an invoice for which no Purchase Order was originally generated, please contact your Unit Administrator on how to complete this process through Mustang Market.
+
+#### Travel Policy
+
+Business related travel expenses are reimbursed through Western Financials - Travel & Expense Center. Such expenses must be in accordance with [MAPP 2.16 - Travel & Expense Reimbursement](http://www.uwo.ca/univsec/pdf/policies_procedures/section2/mapp216.pdf) and require a one-over approval. When contemplating travel supported by research funding, it is important to understand any sponsor specific guidelines that must be followed. Ensure all information required is completed on the claim form and supporting documentation submitted to the reviewer and/or approver.
+
+The following information must also be included on the expense claim: purpose of trip (how it relates specifically to the research project being charged), destination, and relationship of claimant to the account holder (if the claimant is not the account holder), prospectus or program of the conference/workshop if applicable. Only one claim per person can be submitted per trip.
+
+The [Travel Policy Supplement as Related to Research](http://www.uwo.ca/univsec/pdf/policies_procedures/section2/mapp216_research.pdf "Travel Policy Supplement Research") is a helpful tool in understanding the requirements for travel applied to research projects.
+
+Western’s Travel Card is recommended as the primary payment method for travel expenses incurred by Western employees. Employees who travel on a regular basis are encouraged to apply for the Travel Card.
+
+You can also contact Financial Services [Travel & Expense Reimbursement](../../accounting/travel_expense_reimbursement.html "Travel & Expense Reimbursement").
+
+### Transferring Expenses to Other Research Projects within Western
+
+In order for expenses to be moved from one project to another the expense being moved must be eligible and directly related to the project it is being moved to.
+
+The specific expenses must be identified to ensure eligibility and the account holder should make such a request in writing (or email) to his/her their department administrator. This provides supporting documentation for audit and review purposes.
+
+Please see specific agency guidelines for additional information on expense eligibility. Contact your department administrator for the processing of a transfer of the expenses.
+
+Please see the following for internal processing of transfer of expenses:
+
+  * [Journal Entries Salaries and Benefits on Research projects](../../restricted/training_reference_content/research_finance/documents/Journaling Salary_Benefits_Research.pdf)
+  * [Journal Entries – Transferring expenses (non-salary) between research projects](../../restricted/training_reference_content/research_finance/documents/Journaling Non-Salary Expenses_Research.pdf)
+
+
+
+### Audits and Monitoring Visits
+
+Many of the research funding programs are subject to financial audits and monitoring reviews. The account holders should understand these requirements at the onset of each project. As part of Western's control framework the research projects are also subject to internal reviews by our Internal Audit department and Research Finance where expense eligibility and compliance requirements are monitored. Prompt attention to audit and review requests help to facilitate these processes.
+
+### Over-Expended Policy 
+
+Account Holders should ensure spending is within the budget limits of their research awards and should maintain their research projects in good standing. Over-expenditures on contract and grant funded research projects are not permitted unless the funding agreement allows over-expenditures (i.e. some multi-year awards) and the Faculty Dean or Departmental Designate approves the over-expenditure in writing.   
+  
+To ensure spending is managed over the period of a research award and to reduce the associated risk of over-expenditures, over spending will be limited to 25% of the following year's confirmed funding. Should additional spending be required, complete the form below to obtain Faculty/Department approval and forward to Research Finance.  
+  
+
+
+  * [Request for Continued Spending on an Over Expended Research Account](../../forms/docs/research/continued_spending.pdf "Form-Continued spending on Overexpended Account")
+  * [Over-Expenditure of Research Accounts (MAPP 7.11)](http://www.uwo.ca/univsec/pdf/policies_procedures/section7/mapp711.pdf "MAPP 7.11")
+
+
+
+### Financial Statements 
+
+#### Printing Monthly Financial Statements
+
+Each grant/contract is established as a research project within Western Financials (PeopleSoft). Monthly financial statements are available within the system for administrators and researchers. As each month end closes, a notification is sent by Research Finance to advise when the monthly financial statements can be run.  
+  
+
+
+  * [How to Print the Researcher Grant Statements](../../restricted/training_reference_content/research_finance/documents/printing_monthly_statement.pdf)
+
+  
+
+
+#### Understanding Monthly Financial Statements
+
+If you have questions regarding the content of monthly financial statements, contact your [Financial Officer in Research Finance.](RF-contact-June-20242.pdf)  
+
+
+####   
+Financial Reports to Sponsors
+
+Research Finance completes all financial reporting as required by our sponsors/agencies (annually, quarterly or monthly). In some cases, the sponsor may require the PI/Account Holder to sign off on these reports. If you receive a request directly from a sponsor for a financial report, contact your Financial Officer in Research Finance.
+
+### Carry Forward of Unspent Balances 
+
+A carry forward is the balance or funds (revenue received – expenses incurred = balance) that remains at the end of a given project fiscal year for a multi-year project. 
+
+It is important to understand the carry forward restrictions in regards to annual balances and end of project unused funds. Some sponsors allow for the carry forward of unspent funds into the following fiscal year and some do not. Others may only allow a specific percentage of the annual budget to be carried into the next year (ie. 10%, 20%).   
+  
+Refer to the sponsor guidelines or contact your [Financial Officer in Research Finance ](RF-contact-June-20243.pdf)for clarification.
+
+### Project End Date: Extend or Close 
+
+#### Project End Date Extensions
+
+All research projects have specified end dates for fund utilization. These dates are clearly stated in award notices, research agreements and contracts, and on monthly financial statements in Western Financials (PeopleSoft). Some sponsors allow for project extensions and others do not. To ward against the loss of any unspent funds, it is important that Account Holders are aware of project end dates and understand the extension requirements of the funding source. If allowable, some sponsors may approve extensions through email confirmation while others may require formal amendments to existing agreements/contracts. Please plan accordingly and contact your[ Financial Officer in Research Finance ](RF-contact-June-20244.pdf)when necessary.  
+  
+
+
+#### Project Closing
+
+At the completion of a project, Research Finance is responsible for submitting the final financial report and the PI is responsible for submitting any progress/technical reports. The PI is also responsible for:  
+  
+
+
+**•** providing staff with the required notice of termination, if applicable  
+**•** updating staff payroll records to reflect change in funding source of pay, if staff will   
+continue employment  
+**•** closing or moving open purchase orders to another appropriate research project  
+**•** clearing all travel advances  
+**•** advising internal operations (i.e. Telecom, UMS, ITS, ChemBio Stores) on standing   
+charges to move to another research project, where appropriate and eligible
+
+Contact your Faculty/Department Administrator for assistance completing the related paperwork.
+
+### 
+
+## [Research Finance](../index.html)
+
+  * [Financial Management of Research Projects](index.html)
+  * [Tri-Agency Information](../tri_agency/index.html)
+  * [Major Sponsor Guidelines](../sponsor_guidelines.html)
+  * [Institutional Projects - Post Award](../instutional_projects_post_award/index.html)
+  * [US Federal Award Requirements](../us_federal_award_requirements/index.html)
+  * [FAQs](../faqs.html)
+
+
+
+© 1878 - Western University
+
+  
+
+
+[Financial Services](http://uwo.ca/finance/)  
+1393 Western Road, Support Services Building Suite 6100  
+London, Ontario, Canada, N6G 1G9  
+Tel: 519.661.3839 Fax: 519.661.3630  
+[financial.services@uwo.ca](mailto:financial.services@uwo.ca)  
+[Privacy](https://www.uwo.ca/vpfinance/legalcounsel/privacy/) | [Web Standards](https://www.communications.uwo.ca/web_design/standards/) | [Terms of Use](https://www.uwo.ca/terms-of-use.html) | [Accessibility](https://accessibility.uwo.ca/)
+
+Key Topics:  
+  
+[Corporate Accounting](../../accounting/index.html)  
+[Financial Systems](../../systems/index.html)  
+[Procurement Services](../../procurement/index.html)  
+[Research Finance](../index.html)  
+[Treasury & Investments](../../treasury/index.html)  
+
+
+Popular Resources:  
+  
+
+
+[About Us](../../about_us.html)
+
+[Forms](../../forms/index.html)
+
+[Mustang Market](../../procurement/mustang_market/index.html)
+
+[Policies & Procedures](../../policies_procedures/index.html)
+
+[Training & Reference](../../training_reference/index.html)
+
+[](https://www.facebook.com/WesternUniversity "Facebook") [](https://instagram.com/westernuniversity "Instagram") [](https://www.youtube.com/user/westernuniversity "YouTube") [](https://www.linkedin.com/school/166689/) [](https://weibo.com/westerninternational)
+
+[ ](https://www.uwo.ca "Western Home Page")

@@ -1,0 +1,266 @@
+Skip to Content
+
+Financial Services Financial Services
+
+Popular Links Popular Links Directory Mail OWL Brightspace Student Services Websites A - Z Events Libraries Maps Parking WesternU
+
+  * [Corporate Accounting](index.html)
+
+    * [Accounts Payable](accounts_payable.html)
+    * [Capital Accounting](capital_accounting.html)
+    * [Endowment & Restricted Funds](endowment_restricted_funds.html)
+    * [Corporate Financial Reporting](corporate_financial_reporting.html)
+    * [Harmonized Sales Tax](hst.html)
+    * [Professional Expense Reimbursement](professional_expense_reimbursement.html)
+    * [Expense Reimbursements](travel_expense_reimbursement.html)
+    * [FAQs](faqs.html)
+
+  * [Financial Systems](../systems/index.html)
+
+    * [About Western Financials](../systems/About Western Financials.html)
+    * [Western Financials Classroom Instruction](../systems/Western Financials Classroom Instruction.html)
+
+  * [Procurement Services](../procurement/index.html)
+
+    * [Sustainable Procurement](../procurement/sustainable_procurement/index.html)
+    * [Customs & Logistics](../procurement/customs/index.html)
+    * [Preparing to Buy](../procurement/preparing_buy/index.html)
+    * [After the Buy](../procurement/after_the_buy/index.html)
+    * [Mustang Market](../procurement/mustang_market/index.html)
+    * [Preferred Vendors](../procurement/preferred_vendors/index.html)
+    * [Preparing to Travel](../procurement/preparing_to_travel/index.html)
+    * [Research Equipment Budgets](../procurement/research_project_budgets/index.html)
+    * [Vendor Resources](../procurement/vendors/index.html)
+    * [Procurement Post](../procurement/procurement_post/index.html)
+    * [FAQs](../procurement/faqs.html)
+
+  * [Research Finance](../research/index.html)
+
+    * [Financial Management of Research Projects](../research/funds_management/index.html)
+    * [Tri-Agency Information](../research/tri_agency/index.html)
+    * [Major Sponsor Guidelines](../research/sponsor_guidelines.html)
+    * [Institutional Projects - Post Award](../research/instutional_projects_post_award/index.html)
+    * [FAQs](../research/faqs.html)
+
+  * [Treasury & Investments](../treasury/index.html)
+
+    * [Accounts Receivable](../treasury/accounts_receivable/index.html)
+    * [Central Cashier](../treasury/cashier.html)
+    * [Employee Computer Purchase Plan](../treasury/computer_purchase.html)
+    * [Guaranteed Housing Loan Plan](../treasury/housing_loan.html)
+    * [Operating & Endowment Fund Investing](../treasury/investing.html)
+    * [FAQs](../treasury/faqs.html)
+
+
+
+  * MENU
+    * [Corporate Accounting](index.html)
+    * [Financial Systems](../systems/index.html)
+    * [Procurement Services](../procurement/index.html)
+    * [Research Finance](../research/index.html)
+    * [Treasury & Investments](../treasury/index.html)
+
+
+
+
+  * [Home](../index.html)
+  * [Corporate Accounting](index.html)
+  * Accounts Payable
+
+
+
+## [Corporate Accounting](index.html)
+
+  * [Accounts Payable](accounts_payable.html)
+  * [Capital Accounting](capital_accounting.html)
+  * [Endowment & Restricted Funds](endowment_restricted_funds.html)
+  * [Corporate Financial Reporting](corporate_financial_reporting.html)
+  * [Harmonized Sales Tax](hst.html)
+  * [Professional Expense Reimbursement](professional_expense_reimbursement.html)
+  * [Expense Reimbursements](travel_expense_reimbursement.html)
+  * [FAQs](faqs.html)
+
+
+
+  
+
+
+### Resources
+
+[Forms](../forms/index.html "Forms")  
+[Training & Reference](../training_reference/index.html "Training and Reference")  
+[Policies & Procedures](../policies_procedures/index.html "Policies and Procedures")
+
+## Contact Us
+
+P: 519.661.3839  
+E: [financial.services@uwo.ca](mailto:financial.services@uwo.ca)
+
+# Accounts Payable
+
+The Accounts Payable department within Financial Services is responsible for the overall timely processing and payment of invoices received by vendors for the purchase of goods and services. Certain business units within the University process and upload their own invoices for payment, such as Western Libraries, Food Services, Contractor Payments (Facilities Engineering) and the Book Store. The central Accounts Payable team is responsible for the processing of all payments via cheque, EFT, draft, or wire payment.
+
+Accounts Payable processes payments for purchases that originate from the following:
+
+### Purchase Order
+
+The following is a high level summary of the purchase to payment process when using a Purchase Order (“PO”).
+
+  1. Department submits a purchase requisition to Procurement Services through Mustang Market.
+  2. Once approved, Procurement will send the purchase order to the vendor requesting delivery of goods or services.
+  3. When the goods are delivered or the services rendered, the vendor submits an invoice to Accounts Payable, referencing the purchase order number.
+  4. Accounts Payable processes the invoice against the purchase order.
+  5. Payment is made via the vendor’s preferred payment method according to the vendor’s payment terms. Please refer to the Pay Cycle below for timing of payments.
+
+
+
+### System Contract
+
+The following is a high level summary of the purchase to payment process when using a System Contract.
+
+  1. Procurement Services negotiates systems contracts and supply agreements to obtain better value and to simplify the procedure for acquiring specific goods and services contracts with vendor.
+  2. Department requests goods or services from the preferred vendor, quoting the Speed Code and account to charge.
+  3. When the goods are delivered or the services rendered, the vendor submits an invoice to Accounts Payable, referencing the speed code and account number.
+  4. Accounts Payable processes the invoice.
+  5. Payment is made via the vendor’s preferred payment method according to the vendor’s payment terms. Please refer to the Pay Cycle below for timing of payments.
+
+
+
+More detailed information can be found in the [Procurement Services](../procurement/index.html) section of our website.
+
+## Additional Resources
+
+### Submitting an Invoice for Payment
+
+Invoices may be submitted to Accounts Payable either by mail or by email:
+
+#### **Mail**
+
+Accounts Payable  
+Suite 6100, Support Services Building  
+1393 Western Road  
+London, Ontario, Canada, N6G 1G9
+
+#### **E-Mail**
+
+Accounts Payable has a dedicated email address for receiving PDF invoices for payment processing. Please forward all invoices for payment to:  
+  
+[apinvoice@uwo.ca](mailto:apinvoice@uwo.ca)
+
+### Invoice Requirements
+
+Accounts Payable requires an original invoice to be submitted by a vendor for payment and will not accept statements of account or contracts as a request for payment. Original invoices can be submitted electronically or by mail (we do not require paper copies to be sent to us). The invoice should reference a Western purchase order number or speed code to ensure that only valid and authorized expenses are paid.  
+  
+In addition, the Canada Revenue Agency requires certain information to be displayed on an invoice to be entitled to claim rebates on taxes paid. Departments and vendors will experience a delay in payment processing if any of the following information is incorrect or missing from an invoice submitted for payment:
+
+  * Vendor’s business or trading name
+  * Buyer's name (must include **The University of Western Ontario** or **Western University** in the "Bill To"/"Sold To" information)
+  * Vendor's GST/HST registration number
+  * Vendor's address and remit-to-address
+  * Invoice date
+  * Total amount paid or payable
+  * Total GST/HST paid or payable on taxable goods and/or services
+  * Brief description of goods and/or services
+  * Terms of payment
+
+
+
+### Pay Cycle
+
+PeopleSoft payables automatically schedules payments based on voucher amount, date and vendor payment terms. All vouchers that are scheduled for payment are netted against any credit memos to arrive at the total payment.  
+  
+If a vendor is placed on hold because of damaged goods or pricing conflicts, the voucher will not be selected for payment until this status is removed.   
+  
+Invoices over $100,000 ($50,000 for research related expenses) require written approval from the department before payment will be released.   
+  
+Departments can verify that the invoices were paid by viewing their account details in the general ledger. Departments will receive their orders directly and it is their responsibility to ensure that the proper amount and items were received. In the case of a discrepancy, it is the responsibility of the department to notify Accounts Payable as soon as possible.  
+  
+Accounts Payable runs multiple pay cycles during the week, according to the below schedule. Invoices must be processed with no budget errors the day before in order to be picked up for payment on the relevant pay cycle.
+
+### Payment Requisitions
+
+Payment requisitions can be used when funds need to be sent to a payee but the request doesn't fall under any other business process, like procurement or HR. This can be found in the forms tile in Western Financials.  
+  
+This form **cannot** be used for sending funds for the purpose of:
+
+  * Payroll/Salaries
+  * Payments that fall under a [NCNER (Non-Continuing Non-Employment Remuneration) form](https://ssocas.uwo.ca/cas/login?service=https%3a%2f%2fwww.uwo.ca%2fhr%2fadmin%2fform_doc%2fhiring%2fncner.pdf)
+  * Payment for [goods and/or services](https://www.uwo.ca/finance/procurement/preparing_buy/Purchasing_methods.html) rendered
+  * Refunds for payments initially received by credit card
+  * [Petty cash reimbursements ](https://www.uwo.ca/finance/treasury/cashier.html)
+  * [Expense reimbursements](https://finance.uwo.ca/psc/fsprdweb_29/EMPLOYEE/ERP/c/PT_FLDASHBOARD.PT_FLDASHBOARD.GBL?DB=EPEX_EXP_HOMEPAGE_FL) to an individual
+
+
+
+If the payee has charged HST then you are likely paying for goods and/or services, and therefore need to follow Western's Procurement business processes. Please visit [https://www.uwo.ca/finance/procurement/preparing_buy/Purchasing_methods.html](../procurement/preparing_buy/Purchasing_methods.html) for guidance or contact [procurement@uwo.ca](mailto:procurement@uwo.ca).
+
+At this time, please use the Mustang Market Multi-Payment Requisition (formerly "Cheque Requisition") form for multi-payment requests or submit an [excel version](../forms/docs/treasury/multi_cheque_req.xlsx) to [requisitions@uwo.ca](mailto:requisitions@uwo.ca).
+
+Questions? Please contact [accountspayable@uwo.ca](mailto:accountspayable@uwo.ca) or call **x83024**
+
+### Payment Flowchart
+
+## Contact Information
+
+Accounts Payable  
+Suite 6100, Support Services Building  
+1393 Western Road  
+London, ON N6G 1G9  
+  
+For submitting an invoice: [apinvoice@uwo.ca](mailto:apinvoice@uwo.ca)  
+For questions: [apquestion@uwo.ca](mailto:apquestion@uwo.ca)  
+(519) 661-2111 ext. 83024  
+  
+To allow us to efficiently respond to your inquiries, please include the invoice number and purchase order number in the subject of your email or have this information ready when you call.
+
+## [Corporate Accounting](index.html)
+
+  * [Accounts Payable](accounts_payable.html)
+  * [Capital Accounting](capital_accounting.html)
+  * [Endowment & Restricted Funds](endowment_restricted_funds.html)
+  * [Corporate Financial Reporting](corporate_financial_reporting.html)
+  * [Harmonized Sales Tax](hst.html)
+  * [Professional Expense Reimbursement](professional_expense_reimbursement.html)
+  * [Expense Reimbursements](travel_expense_reimbursement.html)
+  * [FAQs](faqs.html)
+
+
+
+© 1878 - Western University
+
+  
+
+
+[Financial Services](http://uwo.ca/finance/)  
+1393 Western Road, Support Services Building Suite 6100  
+London, Ontario, Canada, N6G 1G9  
+Tel: 519.661.3839 Fax: 519.661.3630  
+[financial.services@uwo.ca](mailto:financial.services@uwo.ca)  
+[Privacy](https://www.uwo.ca/vpfinance/legalcounsel/privacy/) | [Web Standards](https://www.communications.uwo.ca/web_design/standards/) | [Terms of Use](https://www.uwo.ca/terms-of-use.html) | [Accessibility](https://accessibility.uwo.ca/)
+
+Key Topics:  
+  
+[Corporate Accounting](index.html)  
+[Financial Systems](../systems/index.html)  
+[Procurement Services](../procurement/index.html)  
+[Research Finance](../research/index.html)  
+[Treasury & Investments](../treasury/index.html)  
+
+
+Popular Resources:  
+  
+
+
+[About Us](../about_us.html)
+
+[Forms](../forms/index.html)
+
+[Mustang Market](../procurement/mustang_market/index.html)
+
+[Policies & Procedures](../policies_procedures/index.html)
+
+[Training & Reference](../training_reference/index.html)
+
+[](https://www.facebook.com/WesternUniversity "Facebook") [](https://instagram.com/westernuniversity "Instagram") [](https://www.youtube.com/user/westernuniversity "YouTube") [](https://www.linkedin.com/school/166689/) [](https://weibo.com/westerninternational)
+
+[ ](https://www.uwo.ca "Western Home Page")

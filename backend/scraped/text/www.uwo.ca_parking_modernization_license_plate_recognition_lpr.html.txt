@@ -1,0 +1,195 @@
+Skip to Content
+
+á Parking Services Parking Services 
+
+Popular Links Popular Links Directory Mail OWL Student Services Websites A - Z Events Libraries Maps Parking WesternU
+
+  * [Find Parking](../find/index.html)
+
+    * [Map](../find/map.html)
+    * [Visitor Parking](../find/visitor/index.html)
+    * [Accessible Parking](../find/accessible.html)
+    * [Affiliate Parking](../find/affiliate.html)
+    * [Campus Recreation & Tennis](../find/campus_rec_tennis.html)
+    * [Summer, Evenings & Weekends](../find/summer_evening_weekend.html)
+    * [Sustainable Transportation](../find/sustainable/index.html)
+    * [Service Vehicle Parking](../find/service_vehicle_parking.html)
+
+  * [Parking Account](../account/index.html)
+  * [Permits](../permits/index.html)
+
+    * [Faculty & Staff](../permits/faculty_staff.html)
+    * [Students](../permits/students/index.html)
+    * [Accessible](../permits/accessible.html)
+    * [Retirees](../permits/retirees.html)
+    * [Commercial/Contractor](../permits/commercial.html)
+    * [General Service Vehicle](../permits/gereral_service_vehicle.html)
+    * [Other Permits](../permits/other.html)
+    * [FM - Service Vehicle Permits](../permits/FM - Service Vehicle Permits.html)
+
+  * [Infractions](../infractions/index.html)
+
+    * [Pay Infraction](../infractions/pay.html)
+    * [Appeal Infraction](../infractions/appeals/index.html)
+    * [Towed Vehicles](../infractions/towed_vehicles.html)
+    * [Parking Regulations](../infractions/regulations/index.html)
+    * [Academic Seals](../infractions/academic_seals_and_sanctions.html)
+
+  * [Services](../services/index.html)
+
+    * [Secured Bike Areas](../services/secured_bike_shelters.html)
+    * [Bike Lockers](../services/bike_lockers.html)
+    * [Department Hosted Parking](../services/dept_host/index.html)
+    * [Event Parking](../services/event_parking.html)
+    * [EV Charging Stations](../services/ev_charging_stations.html)
+    * [Motorist Assistance](../services/motorist_assistance.html)
+
+  * [About Us](../about/index.html)
+
+    * [Contact Us](../about/contact_us.html)
+    * [FAQ](../about/faq.html)
+    * [Parking Staff](../about/parking_staff.html)
+    * [Enforcement Staff](../about/enforcement_staff.html)
+
+
+
+  * MENU
+    * [Find Parking](../find/index.html)
+    * [Parking Account](../account/index.html)
+    * [Permits](../permits/index.html)
+    * [Infractions](../infractions/index.html)
+    * [Services](../services/index.html)
+    * [About Us](../about/index.html)
+
+
+
+
+  * [Home](../index.html)
+  * [modernization](index.html)
+  * License Plate Recognition
+
+
+
+### Need help?
+
+  *     * [Adding Vehicle Plates to Your Account](../documents/Adding vehicle plates to your parking account.pdf)
+
+
+
+# License Plate Recognition (LPR)
+
+Western Parking Enforcement is now utilizing LPR technology.
+
+If you use Western's permit lots, you'll need to ensure your Parking Account is up to date with accurate information and that your vehicles plates are linked to your permit. 
+
+Update your vehicle information on your account:
+
+  1. Log in to our [Parking Portal](https://westernu.t2hosted.ca/Account/Portal) to manage your account.
+  2. Click "LOGIN" in the upper right hand corner.
+  3. Click on "Western University Login".
+  4. Enter your username and password.
+  5. You should receive a "Welcome" message in the top right corner if successful.
+  6. Click on "Permits" in the top menu bar.
+  7. Click on "View Your Permits".
+  8. Click on the active permit for which you wish to add your vehicle (GNR/PNR/CNR etc.). _You DO NOT need to add it to the AVI Deposit_
+  9. __On the "Permit Details" page you will see a list of "Associated Vehicles." If you do not see your vehicle then you will need to add your vehicle.__
+  10. At the bottom, click on "Add Vehicles to Permit" button.
+  11. Fill in all the blanks and click "Next" (If your particular "Model" is not listed please make sure "Style" is a good description of your vehicle).
+
+  
+
+
+_Once this is done, your vehicle should be on both your profile and your permit and is safe for License Plate Recognition parking in your eligible zones._
+
+Please note:
+
+  * You can only ADD new vehicle information to a parking account - if you have a vehicle you'd like removed from your parking account please email us the details at [wparking@uwo.ca](mailto:wparking@uwo.ca)
+  * Any time there are changes to the status of your permit (i.e. expired permit renewal, switch of permit type, driving a new vehicle), you'll want to ensure your license plate is linked to your permit by completing these steps again.
+
+
+
+## What is LPR?
+
+LPR, License Plate Recognition technology uses optical character recognition to automatically read license plate characters. Western will be operating mobile LPR, which uses vehicle-mounted cameras to verify plates in all campus lots.
+
+LPR will increase the accuracy of identifying unauthorized or unregistered vehicles parked on campus. With Western ID cards added for convenient lot entry, on-foot enforcement officers currently need to manually validate the license plate. This new technology automates the process and notifies parking staff of unauthorized vehicles.
+
+The addition of LPR technology is the next phase in expanding the functionality and modernization of the recently installed T2 parking database and gating system. LPR is expected to improve enforcement efficiency and further protect permit holder rights.
+
+### Frequently Asked Questions
+
+### What is License Plate Recognition (LPR)?
+
+License Plate Recognition is state of the art parking technology that uses optical character recognition to automatically read license plate characters. Western will be operating mobile LPR, which uses vehicle-mounted cameras to verify plates in all campus lots.
+
+### Who else uses this technology?
+
+This technology is being used by other campuses such as Mohawk College. London Police Services also uses LPR. 
+
+### Why is Western using LPR?
+
+With the increased volume of vehicles on campus it’s important for us to protect the space of paying permit holders. This new technology allows us to scan the campus quickly and effectively multiple times a day. 
+
+### Why do I need to update the vehicle and license plate information on my account?
+
+License plate recognition relies on information about your vehicle to ensure that the vehicle matches the permit being used. 
+
+### What do I do about loaner or rental vehicles?
+
+Loaner and rental vehicles need to be added to your account and linked to your permit. Once you return your loaned or rented vehicle, you can log back into your account and remove the vehicle. 
+
+### How can I change and/or delete vehicle information on my account?
+
+Our system allows you to update your account with new information and delete old information. If the vehicle you are trying to delete has a citation attached, you will not be able to delete it. If you require assistance please contact our office at wparking@uwo.ca.
+
+### Are the images scanned by the cameras saved?
+
+No, the images are not saved. Photos are taken by Western Enforcement Officers if a citation is written but no images are saved using LPR.
+
+### Does the License Plate Recognition technology have access to Ministry of Transportation of Ontario (MTO) information?
+
+No, neither the system itself nor the drivers of the vehicles have access to MTO information. The system simply looks for a match between the parking system and the license plate that it is looking at.
+
+### What happened to the lot availability app?
+
+It has been determined that the lot availability app is a risk to safe travel on campus. Parking & Visitor Services is now exploring other options for notifying our customers of availability in campus parking lots.
+
+© 1878 - Western University
+
+  
+
+
+[Parking Services, Western University](/)  
+1393 Western Rd., Support Services Building, Suite 4150  
+London, Ontario, Canada, N6G 1G9  
+Tel: 519.661.3973  
+[wparking@uwo.ca](mailto:wparking@uwo.ca)  
+[Privacy](https://www.uwo.ca/vpfinance/legalcounsel/privacy/) | [Web Standards](https://www.communications.uwo.ca/web_design/standards/) | [Terms of Use](https://www.communications.uwo.ca/terms_of_use.html) | [Accessibility](https://accessibility.uwo.ca/)
+
+Key Topics:  
+  
+[Find Parking](../find/index.html)  
+[Parking Account](../account/index.html)  
+[Permits](../permits/index.html)  
+[Infractions](../infractions/index.html)  
+[Services](../services/index.html)  
+[About Us](../about/index.html)  
+
+
+Popular Resources:  
+  
+
+
+[Campus Maps](http://www.uwo.ca/about/visit/maps.html)
+
+[Parking Regulations](../infractions/regulations/index.html)
+
+[Facilities Management](http://uwo.ca/fm/)
+
+[Canadian Parking Assoc.](http://www.canadianparking.ca/)
+
+[Ontario Campus Parking Assoc.](https://ocpa.on.ca/)
+
+[](https://www.facebook.com/WesternUniversity "Facebook") [](https://instagram.com/westernuniversity "Instagram") [](https://www.youtube.com/user/westernuniversity "YouTube") [](https://www.linkedin.com/school/166689/) [](https://weibo.com/westerninternational)
+
+[ ](https://www.uwo.ca "Western Home Page")

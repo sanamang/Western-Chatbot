@@ -1,0 +1,278 @@
+Skip to Content
+
+Financial Services Financial Services
+
+Popular Links Popular Links Directory Mail OWL Brightspace Student Services Websites A - Z Events Libraries Maps Parking WesternU
+
+  * [Corporate Accounting](../accounting/index.html)
+
+    * [Accounts Payable](../accounting/accounts_payable.html)
+    * [Capital Accounting](../accounting/capital_accounting.html)
+    * [Endowment & Restricted Funds](../accounting/endowment_restricted_funds.html)
+    * [Corporate Financial Reporting](../accounting/corporate_financial_reporting.html)
+    * [Harmonized Sales Tax](../accounting/hst.html)
+    * [Professional Expense Reimbursement](../accounting/professional_expense_reimbursement.html)
+    * [Expense Reimbursements](../accounting/travel_expense_reimbursement.html)
+    * [FAQs](../accounting/faqs.html)
+
+  * [Financial Systems](../systems/index.html)
+
+    * [About Western Financials](../systems/About Western Financials.html)
+    * [Western Financials Classroom Instruction](../systems/Western Financials Classroom Instruction.html)
+
+  * [Procurement Services](index.html)
+
+    * [Sustainable Procurement](sustainable_procurement/index.html)
+    * [Customs & Logistics](customs/index.html)
+    * [Preparing to Buy](preparing_buy/index.html)
+    * [After the Buy](after_the_buy/index.html)
+    * [Mustang Market](mustang_market/index.html)
+    * [Preferred Vendors](preferred_vendors/index.html)
+    * [Preparing to Travel](preparing_to_travel/index.html)
+    * [Research Equipment Budgets](research_project_budgets/index.html)
+    * [Vendor Resources](vendors/index.html)
+    * [Procurement Post](procurement_post/index.html)
+    * [FAQs](faqs.html)
+
+  * [Research Finance](../research/index.html)
+
+    * [Financial Management of Research Projects](../research/funds_management/index.html)
+    * [Tri-Agency Information](../research/tri_agency/index.html)
+    * [Major Sponsor Guidelines](../research/sponsor_guidelines.html)
+    * [Institutional Projects - Post Award](../research/instutional_projects_post_award/index.html)
+    * [FAQs](../research/faqs.html)
+
+  * [Treasury & Investments](../treasury/index.html)
+
+    * [Accounts Receivable](../treasury/accounts_receivable/index.html)
+    * [Central Cashier](../treasury/cashier.html)
+    * [Employee Computer Purchase Plan](../treasury/computer_purchase.html)
+    * [Guaranteed Housing Loan Plan](../treasury/housing_loan.html)
+    * [Operating & Endowment Fund Investing](../treasury/investing.html)
+    * [FAQs](../treasury/faqs.html)
+
+
+
+  * MENU
+    * [Corporate Accounting](../accounting/index.html)
+    * [Financial Systems](../systems/index.html)
+    * [Procurement Services](index.html)
+    * [Research Finance](../research/index.html)
+    * [Treasury & Investments](../treasury/index.html)
+
+
+
+
+  * [Home](../index.html)
+  * [Procurement Services](index.html)
+  * FAQs
+
+
+
+## [Procurement Services](index.html)
+
+  * [Sustainable Procurement](sustainable_procurement/index.html)
+  * [Customs & Logistics](customs/index.html)
+  * [Preparing to Buy](preparing_buy/index.html)
+  * [Multifunctional Devices](multifunctional_devices/Index.html)
+  * [After the Buy](after_the_buy/index.html)
+  * [Mustang Market](mustang_market/index.html)
+  * [Preferred Vendors](preferred_vendors/index.html)
+  * [Preparing to Travel](preparing_to_travel/index.html)
+  * [Research Equipment Budgets](research_project_budgets/index.html)
+  * [Vendor Resources](vendors/index.html)
+  * [Procurement Post](procurement_post/index.html)
+  * [FAQs](faqs.html)
+
+
+
+## Contact Us
+
+P: 519.661.3839  
+E: [financial.services@uwo.ca](mailto:financial.services@uwo.ca)
+
+# FAQs
+
+#### **Accessible Procurement**
+
+### Do the accessibility obligations apply to the procurement of all goods and services?
+
+Yes. The accessibility obligations apply to the acquisition of all goods, services and facilities regardless of value.
+
+### Do I have to apply accessible criteria to goods used by individual employees?
+
+Yes, unless it is not practicable to do so. It is important to take into consideration the possibility that the employee using the purchased good may acquire a disability, or a person with a disability may later use said good. For example, in purchasing telephones, you might want to assess whether the equipment requires volume controls, clear display screens, and large buttons in order to make the telephones as accessible to as many users as possible. While the original user of the phone may not have a disability, the phone may be used by several different employees over the period of a few years. Remember, procuring accessible goods, services and facilities is usually more economical than restructuring the goods, services or facilities to meet accessibility criteria afterward.
+
+### Do I have to apply accessible criteria to goods used by the public?
+
+Yes, it is especially important to apply accessibility criteria and features to goods, services and facilities used by the public as it is very likely that a member of the public who utilizes that good, service or facility will have a disability. When determining your priorities for purchasing a new item, remember that 1 in 6 Canadians have a disability and that number is expected to grow. Furthermore, by applying accessibility criteria and features, other customers and members of the public benefit, including people pushing strollers and older adults. If it is not practicable to incorporate accessibility criteria and features, you must be prepared to provide an explanation.
+
+### What do I do if I cannot find information about accessibility criteria related to the product, service or facility that I am purchasing? 
+
+If it is not possible to apply the accessibility checklist and you need help finding additional accessibility criteria related to the product or service being procured, contact Procurement Services ([procurement@uwo.ca](mailto:procurement@uwo.ca), Ext. 84579).
+
+### How do I know I am meeting my accessibility obligation in procurement?
+
+Consider a few key questions:
+
+  * Do the goods, services or facilities you are planning to acquire create barriers to persons with disabilities?
+  * Can a person with a disability use the service at all?
+  * Can people with disabilities configure the item to meet their specific needs and preferences?
+
+
+
+If you are hosting an event or providing a service or facility, consider offering a survey or questionnaire that includes a question about accessibility. This will give people the opportunity to let you know if you are meeting their accessibility needs.
+
+#### **Mustang Market**
+
+#### Will I still need to get quotes for orders over $25,000?
+
+  * Yes, the process for orders over $25,000 will not change but now you can attach quotes right in Mustang Market.
+
+
+
+#### How can I turn of my email notifications?
+
+  * Under View My Profile, go to Email Preferences. To turn off email notifications for approvals, change the PR pending Workflow approval setting to None.
+
+
+
+#### How can I bookmark the login page?
+
+  * Bookmark the Western Log in page for Mustang Market > Copy this link: https://solutions.sciquest.com/apps/Router/SAMLAuth/WesternOntario > Go the bookmark in your bookmark list > Right click on the bookmark > Select Properties > In the URL box paste the link above > Apply > Ok
+
+
+
+#### What is the difference between a Shopper and a Requisitioner?
+
+  * A shopper can add items to a cart but cannot submit the cart to create a requisition. A shopper must assign a cart to a Requisitioner who can then submit the order. Shoppers are typically users who do not have access to speedcodes or account codes and require a Requisitioner to add this information.
+
+
+
+#### How do I make a change to a requisition that is still pending in workflow?
+
+  * Go into the requisition and click on the PR Approvals tab to check who is scheduled to approve the requisition next. Contact that person and have them go into the requisition and select “Return To Requisitioner” under the Available Actions drop-down menu. You can leave a comment or attach a document without having the approver return your requisition by going to the Comments tab on the requisition.
+
+
+
+#### Why did I receive a notification to approve a requisition?
+
+  * All requisitions require departmental approval which is based on department code (and tied to speedcode). There may be several approvers for the same department code and they will all receive a notification that a requisition requires approval. Only one person from the department needs to approve the order.
+
+
+
+#### Why do I get an error message when I click on a link in an email requesting me to approve a requisition?
+
+  * In most cases, there are multiple approvers receiving the same notification. If the requisition has already been approved by another approver, then you will receive an error notification when you attempt to approve the order again using the link in the email. Another way to verify that the order has been approved by another approver, is to log into Mustang Market and go to Requisitions Needing Approval. If the order has already been approved you will no longer see the approval item in the department folder.
+
+
+
+### How do I set up an approval code to approve a requisition via email?
+
+  * If you would like to approve via email, you will have to set up your approval code in your profile. Instructions to do this can be found here, [Approving Purchases using E-mail](../restricted/training_reference_content/procurement/documents/Email Approval Codes April 2020.pdf "E-mail Approval Code Instructions").
+
+
+
+#### How do I contact a vendor about my catalogue order?
+
+  * Refer to the vendor catalogue in Mustang Market for customer service contact information.
+
+
+
+#### Can an Approver with the appropriate level of authority shop/requisition and approver their order?
+
+  * Yes, as long as the Approver is setup with the Requisitioner role.
+
+
+
+#### When an Approver assigns a substitute Approver or delegates his/her authority, can he/she still view the order?
+
+  * The Approver can see the order in their Approval folder before it has been approved by the delegated Approver. However, once the order is approved and it is no longer in the approval folder, it can no longer be viewed.
+
+
+
+#### Can a Requisitioner assign a substitute Requisitioner?
+
+  * Yes, this can be done on the "View Draft Shopping Carts" screen (Shop > My Carts and Orders). The assignee must have a Requisitioner role.
+
+
+
+#### Can an assigned substitute approver delegate the role to another substitute?
+
+  * Yes, as long as the new substitute has an Approver role.
+
+
+
+#### When a shared cart is created, can anyone in the shared cart group submit the order?
+
+  * Yes, anyone in the shared group with a Requisitioner role can submit the order.
+
+
+
+#### What does it mean when I receive a system-generated email stating 'Your requisition has been returned'?
+
+  * This is likely the result of budget not being available for the Fund/Project entered on the requisition. Refer to the History tab of the requisition to view the budget error message. Contact Financial Services (Special Funds for Fund 4, Research Finance for Fund 2) to get a budget set up for your project.
+
+
+
+#### **P-Card**
+
+  * [P-Card FAQs](../forms/docs/procurement/Purchasing Card FAQ_Oct2024.pdf "FAQs for P-card")
+
+
+
+## [Procurement Services](index.html)
+
+  * [Sustainable Procurement](sustainable_procurement/index.html)
+  * [Customs & Logistics](customs/index.html)
+  * [Preparing to Buy](preparing_buy/index.html)
+  * [Multifunctional Devices](multifunctional_devices/Index.html)
+  * [After the Buy](after_the_buy/index.html)
+  * [Mustang Market](mustang_market/index.html)
+  * [Preferred Vendors](preferred_vendors/index.html)
+  * [Preparing to Travel](preparing_to_travel/index.html)
+  * [Research Equipment Budgets](research_project_budgets/index.html)
+  * [Vendor Resources](vendors/index.html)
+  * [Procurement Post](procurement_post/index.html)
+  * [FAQs](faqs.html)
+
+
+
+© 1878 - Western University
+
+  
+
+
+[Financial Services](http://uwo.ca/finance/)  
+1393 Western Road, Support Services Building Suite 6100  
+London, Ontario, Canada, N6G 1G9  
+Tel: 519.661.3839 Fax: 519.661.3630  
+[financial.services@uwo.ca](mailto:financial.services@uwo.ca)  
+[Privacy](https://www.uwo.ca/vpfinance/legalcounsel/privacy/) | [Web Standards](https://www.communications.uwo.ca/web_design/standards/) | [Terms of Use](https://www.uwo.ca/terms-of-use.html) | [Accessibility](https://accessibility.uwo.ca/)
+
+Key Topics:  
+  
+[Corporate Accounting](../accounting/index.html)  
+[Financial Systems](../systems/index.html)  
+[Procurement Services](index.html)  
+[Research Finance](../research/index.html)  
+[Treasury & Investments](../treasury/index.html)  
+
+
+Popular Resources:  
+  
+
+
+[About Us](../about_us.html)
+
+[Forms](../forms/index.html)
+
+[Mustang Market](mustang_market/index.html)
+
+[Policies & Procedures](../policies_procedures/index.html)
+
+[Training & Reference](../training_reference/index.html)
+
+[](https://www.facebook.com/WesternUniversity "Facebook") [](https://instagram.com/westernuniversity "Instagram") [](https://www.youtube.com/user/westernuniversity "YouTube") [](https://www.linkedin.com/school/166689/) [](https://weibo.com/westerninternational)
+
+[ ](https://www.uwo.ca "Western Home Page")

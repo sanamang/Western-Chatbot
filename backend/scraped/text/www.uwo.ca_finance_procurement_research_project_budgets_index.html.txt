@@ -1,0 +1,217 @@
+Skip to Content
+
+Financial Services Financial Services
+
+Popular Links Popular Links Directory Mail OWL Brightspace Student Services Websites A - Z Events Libraries Maps Parking WesternU
+
+  * [Corporate Accounting](../../accounting/index.html)
+
+    * [Accounts Payable](../../accounting/accounts_payable.html)
+    * [Capital Accounting](../../accounting/capital_accounting.html)
+    * [Endowment & Restricted Funds](../../accounting/endowment_restricted_funds.html)
+    * [Corporate Financial Reporting](../../accounting/corporate_financial_reporting.html)
+    * [Harmonized Sales Tax](../../accounting/hst.html)
+    * [Professional Expense Reimbursement](../../accounting/professional_expense_reimbursement.html)
+    * [Expense Reimbursements](../../accounting/travel_expense_reimbursement.html)
+    * [FAQs](../../accounting/faqs.html)
+
+  * [Financial Systems](../../systems/index.html)
+
+    * [About Western Financials](../../systems/About Western Financials.html)
+    * [Western Financials Classroom Instruction](../../systems/Western Financials Classroom Instruction.html)
+
+  * [Procurement Services](../index.html)
+
+    * [Sustainable Procurement](../sustainable_procurement/index.html)
+    * [Customs & Logistics](../customs/index.html)
+    * [Preparing to Buy](../preparing_buy/index.html)
+    * [After the Buy](../after_the_buy/index.html)
+    * [Mustang Market](../mustang_market/index.html)
+    * [Preferred Vendors](../preferred_vendors/index.html)
+    * [Preparing to Travel](../preparing_to_travel/index.html)
+    * [Research Equipment Budgets](index.html)
+    * [Vendor Resources](../vendors/index.html)
+    * [Procurement Post](../procurement_post/index.html)
+    * [FAQs](../faqs.html)
+
+  * [Research Finance](../../research/index.html)
+
+    * [Financial Management of Research Projects](../../research/funds_management/index.html)
+    * [Tri-Agency Information](../../research/tri_agency/index.html)
+    * [Major Sponsor Guidelines](../../research/sponsor_guidelines.html)
+    * [Institutional Projects - Post Award](../../research/instutional_projects_post_award/index.html)
+    * [FAQs](../../research/faqs.html)
+
+  * [Treasury & Investments](../../treasury/index.html)
+
+    * [Accounts Receivable](../../treasury/accounts_receivable/index.html)
+    * [Central Cashier](../../treasury/cashier.html)
+    * [Employee Computer Purchase Plan](../../treasury/computer_purchase.html)
+    * [Guaranteed Housing Loan Plan](../../treasury/housing_loan.html)
+    * [Operating & Endowment Fund Investing](../../treasury/investing.html)
+    * [FAQs](../../treasury/faqs.html)
+
+
+
+  * MENU
+    * [Corporate Accounting](../../accounting/index.html)
+    * [Financial Systems](../../systems/index.html)
+    * [Procurement Services](../index.html)
+    * [Research Finance](../../research/index.html)
+    * [Treasury & Investments](../../treasury/index.html)
+
+
+
+
+  * [Home](../../index.html)
+  * [Procurement Services](../index.html)
+  * Research Equipment Budgets
+
+
+
+## [Procurement Services](../index.html)
+
+  * [Sustainable Procurement](../sustainable_procurement/index.html)
+  * [Customs & Logistics](../customs/index.html)
+  * [Preparing to Buy](../preparing_buy/index.html)
+  * [Multifunctional Devices](../multifunctional_devices/Index.html)
+  * [After the Buy](../after_the_buy/index.html)
+  * [Mustang Market](../mustang_market/index.html)
+  * [Preferred Vendors](../preferred_vendors/index.html)
+  * [Preparing to Travel](../preparing_to_travel/index.html)
+  * [Research Equipment Budgets](index.html)
+    * [Budget Considerations](budget_considerations.html)
+  * [Vendor Resources](../vendors/index.html)
+  * [Procurement Post](../procurement_post/index.html)
+  * [FAQs](../faqs.html)
+
+
+
+## Contact Us
+
+P: 519.661.3839  
+E: [financial.services@uwo.ca](mailto:financial.services@uwo.ca)
+
+# Developing Research Budgets
+
+This online reference tool was created by Procurement Services to assist the research community with the development of research project budgets for goods and services.
+
+The Principal Investigator (PI) is the lead researcher who is responsible for carrying out research grant and budget activities. 
+
+With the exception of Canada Foundation for Innovation (CFI) and FedDev Ontario grants, PIs are able to complete both the project budget application and post-award stages on their own (NSERC, CIHR,SSHRC, etc.). For assistance with CFI budget development, contact Procurement Services at [procurement@uwo.ca](mailto:procurement@uwo.ca), Ext. 84579.
+
+* * *
+
+#### **Project Budget Application Stage**
+
+It is recommended that PIs obtain more than one budgetary quotation to compare various qualities and models to develop an accurate budget of the required goods or services.
+
+### Create Application Budget
+
+  * Create an [equipment list](../../forms/docs/research/Equipment List.xlsx "Excel Sheet - Equipment List")
+  * PIs should define their equipment specifications and review [Budget Considerations](../../forms/docs/procurement/Research Budget Considerations.pdf "research budget considerations") when requesting budgetary quotes.
+  * Use the [Request for Quotation](../../restricted/RFQ template_Western_May 2025.xlsx "Request for Quotation") (RFQ) template to obtain budgetary quotes; it is recommended that PIs obtain a minimum of two budgetary quotes. The information gathered through the RFQ process will be used to populate a budget costing sheet. PIs should verify that responding vendors have included the appropriate currency, shipping charges (Delivered at Place (DAP) Western), and installation details in their quotes.
+  * Engage Facilities Management if renovations are required; visit their [Project Estimates](http://www.uwo.ca/fm/projects/estimate.html#capital "Project Estimates") web page for more information.
+
+
+
+### Complete Costing Sheet
+
+  * Procurement Services recommends that PIs complete a [Budget Costing Sheet](../../forms/docs/procurement/Costing-Sheet-Template-2017.xlsx "Excel Sheet - Costing ") to ensure budget accuracy. Factors to be considered at this stage include: exchange rates, inflation, shipping charges, taxes 3.41%
+  * Contact Procurement Services for the appropriate exchanges rates and inflation factors.
+
+
+
+### Finalize Application
+
+  * PIs should have a realistic budget after completing the costing sheet and should concentrate on finalizing the written portion of their application. Research Development & Services have various [resources](http://www.uwo.ca/research/services/resources/index.html "Research Development & Services website") available for developing a well written application. 
+
+
+
+#### **Post Award Stage**
+
+Once an Award Notice is received from the granting agency, PIs must obtain competitive quotes complying with Western's MAPP 2.8 - Procurement of Materials & Services, as well as the Broader Public Sector (BPS) Accountability Directive. The number of quotes required will vary depending on the value of the goods and services.
+
+PIs should define their equipment specifications and review [Budget Considerations](../../forms/docs/procurement/Research Budget Considerations.pdf "research budget considerations") before requesting quotes.
+
+### Preparing to Purchase
+
+Guidelines for competitive pricing are as follows:
+
+  * Up to $25,000 - one quote is required
+  * $25,001 to $75,000 - two quotes minimum (three preferable) with the awarded quote documented in writing
+  * $75,001 to $121,200 - three quotes minimum. The [Request for Quotation](../../restricted/RFQ template_Western_May 2025.xlsx "Request for Quotation") (RFQ) should be utilized by the PI to obtain competitive quotes when the exact goods or services are known. An evaluation criteria must be disclosed if quotes will be evaluated on other factors than price, such as specifications and service. A Request for Proposal (RFP) should be considered for more complex goods or services that may have more than one solution requiring a predetermined evaluation criteria. Contact Procurement Services if you require assistance with this process.
+  * Over $121,200 - competitively bid through an open, electronic system. Contact Procurement Services to develop a publicly posted RFQ or Request for Proposal (RFP).
+
+
+
+### Determine Successful Vendor
+
+The evaluation process must be conducted fairly and must not discriminate based on geographic location or show favoritism towards a certain product or vendor due to unjustifiable reasons. Procurement Services must be contacted if there is a potential conflict of interest.
+
+Quotes for low value items gathered through an informal process or formal RFQ process should be evaluated solely based on price unless an evaluation criteria was provided with the quote request. When an evaluation criteria was disclosed, PIs should complete an [evaluation score sheet](../../restricted/RFQ Template_with BOBIA.xlsx "Evaluation Score Sheet") (quantitative) and an explanation (qualitative) of their given scores.
+
+Procurement Services will facilitate the process for goods valued $100,000 or greater that involve an advertised RFQ or RFP. PIs are still responsible for scoring the bids and selecting a vendor based on their predetermined evaluation criteria.
+
+### Complete Purchase Requisition
+
+Goods and services must be procured using Western's eProcurement tool [Mustang Market](../mustang_market/index.html "Mustang Market").
+
+An agreement will be negotiated with the successful vendor for goods valued $121,200 or greater, which will accompany the purchase order generated using Mustang Market. An agreement might be applicable for items less than $121,200 due to the complexity of the goods and services, payment terms or delivery schedule; contact Procurement Services to negotiate an agreement if one of these situations exist.
+
+## [Procurement Services](../index.html)
+
+  * [Sustainable Procurement](../sustainable_procurement/index.html)
+  * [Customs & Logistics](../customs/index.html)
+  * [Preparing to Buy](../preparing_buy/index.html)
+  * [Multifunctional Devices](../multifunctional_devices/Index.html)
+  * [After the Buy](../after_the_buy/index.html)
+  * [Mustang Market](../mustang_market/index.html)
+  * [Preferred Vendors](../preferred_vendors/index.html)
+  * [Preparing to Travel](../preparing_to_travel/index.html)
+  * [Research Equipment Budgets](index.html)
+    * [Budget Considerations](budget_considerations.html)
+  * [Vendor Resources](../vendors/index.html)
+  * [Procurement Post](../procurement_post/index.html)
+  * [FAQs](../faqs.html)
+
+
+
+© 1878 - Western University
+
+  
+
+
+[Financial Services](http://uwo.ca/finance/)  
+1393 Western Road, Support Services Building Suite 6100  
+London, Ontario, Canada, N6G 1G9  
+Tel: 519.661.3839 Fax: 519.661.3630  
+[financial.services@uwo.ca](mailto:financial.services@uwo.ca)  
+[Privacy](https://www.uwo.ca/vpfinance/legalcounsel/privacy/) | [Web Standards](https://www.communications.uwo.ca/web_design/standards/) | [Terms of Use](https://www.uwo.ca/terms-of-use.html) | [Accessibility](https://accessibility.uwo.ca/)
+
+Key Topics:  
+  
+[Corporate Accounting](../../accounting/index.html)  
+[Financial Systems](../../systems/index.html)  
+[Procurement Services](../index.html)  
+[Research Finance](../../research/index.html)  
+[Treasury & Investments](../../treasury/index.html)  
+
+
+Popular Resources:  
+  
+
+
+[About Us](../../about_us.html)
+
+[Forms](../../forms/index.html)
+
+[Mustang Market](../mustang_market/index.html)
+
+[Policies & Procedures](../../policies_procedures/index.html)
+
+[Training & Reference](../../training_reference/index.html)
+
+[](https://www.facebook.com/WesternUniversity "Facebook") [](https://instagram.com/westernuniversity "Instagram") [](https://www.youtube.com/user/westernuniversity "YouTube") [](https://www.linkedin.com/school/166689/) [](https://weibo.com/westerninternational)
+
+[ ](https://www.uwo.ca "Western Home Page")

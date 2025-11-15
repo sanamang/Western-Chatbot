@@ -1,0 +1,171 @@
+Skip to Content
+
+[](https://www.uwo.ca/fhs "Faculty of Health Sciences")
+
+Popular Links Popular Links Directory Mail OWL Brightspace Student Services Websites A - Z Events Libraries Maps Parking WesternU
+
+  * [About Us](../about/index.html)
+
+    * [Office of the Dean](../about/dean/index.html)
+    * [Strategic Planning](../about/strategic-planning.html)
+    * [Awards & Recognition](../about/awards/index.html)
+    * [Interprofessional Education](../about/education/index.html)
+    * [Request IT Support](index.html)
+    * [Clinical Placements Office](../about/cpo/index.html)
+    * [DesignED: Course Design Support](http://www.uwo.ca/fhs/teaching)
+    * [Join our Team: Faculty Position Postings](https://www.uwo.ca/facultyrelations/careers/faculty.html#health)
+    * [Policies and Supports](../policies/index.html)
+    * [Orientation & Onboarding](../about/orientation-onboarding.html)
+
+  * [Programs](../programs/index.html)
+
+    * [School-Based Graduate and Undergraduate Programs](../programs/school_based.html)
+    * [Advanced Health Care Practice (Master's)](../programs/ahcp/index.html)
+    * [Applied Health Sciences](../programs/ahs/index.html)
+    * [Health & Rehabilitation Sciences](../programs/hrs/index.html)
+    * [Health Information Science](https://www.fims.uwo.ca/programs/graduate_programs/master_of_health_information_science_one_year/index.html)
+    * [Global Health Systems](https://www.schulich.uwo.ca/global_health_systems/)
+    * [Events for Future Students](../programs/events/index.html)
+    * [Graduate Student Affordability Calculator](https://grad.uwo.ca/finances/affordability_calculator.cfm)
+
+  * [Schools](../schools/index.html)
+
+    * [Communication Sciences and Disorders](http://www.uwo.ca/fhs/csd/)
+    * [Food and Nutritional Sciences](https://uwo.ca/fhs/fns/)
+    * [Health Studies](http://www.uwo.ca/fhs/shs/)
+    * [Nursing](http://www.uwo.ca/fhs/nursing/)
+    * [Kinesiology](http://www.uwo.ca/fhs/kin/)
+    * [Occupational Therapy](http://www.uwo.ca/fhs/ot/)
+    * [Physical Therapy](http://www.uwo.ca/fhs/pt/)
+
+  * [Research](../research/index.html)
+
+    * [Signature Research Areas & Strategic Planning](../research/strategic/index.html)
+    * [Research Chairs](../research/chairs/index.html)
+    * [Research Centres](../research/centres.html)
+    * [Internal Funding](../research/support_services/index.html)
+    * [Support Team](../research/team.html)
+    * [Statistical Analysis](../research/stats.html)
+    * [Knowledge Mobilization](../research/kmb/index.html)
+    * [Scholarship Reports](../research/reports.html)
+    * [Musculoskeletal Innovation Factory](../research/mskif/index.html)
+    * [Undergraduate Summer Research Internships](../research/usri/index.html)
+
+  * [International](../international/index.html)
+
+    * [Admissions](../international/admissions.html)
+    * [Scholarships](../international/scholarships.html)
+
+  * [Equity in FHS](../equity/index.html)
+
+    * [EDIDA Events](../equity/edida_events.html)
+    * [EDIDA Committee](../equity/edida_committee.html)
+
+  * [News](../news/index.html)
+
+    * [2025](../news/2025/index.html)
+    * [2024](../news/2024/index.html)
+    * [2023](../news/2023/index.html)
+    * [2022](../news/2022/index.html)
+    * [2021](../news/2021/index.html)
+    * [2020](../news/2020/index.html)
+
+  * [](../index.html)
+
+
+  * MENU
+    * [About Us](../about/index.html)
+    * [Programs](../programs/index.html)
+    * [Schools](../schools/index.html)
+    * [Research](../research/index.html)
+    * [International](../international/index.html)
+    * [Equity in FHS](../equity/index.html)
+    * [News](../news/index.html)
+    * [](../index.html)
+
+
+
+
+  * [Home](../index.html)
+  * Service Desk
+
+
+
+### Submit a Request
+
+Help with your Information Technology support needs is just a click away. Use the button below to submit a service request.
+
+[SUBMIT A TICKET](https://westernu.atlassian.net/servicedesk/customer/portal/11/group/31/ "Submit a Ticket")
+
+# Service Desk by JIRA
+
+### 
+
+### Enhancing Information Technology Customer Support
+
+Beginning **March 4, 2019** , the Faculty of Health Sciences is launching a new online system – JIRA Service Desk – for delivering enhanced Information Technology support. Replacing email and phone calls, the Service Desk portal provides a streamlined ticket creation process for faculty and staff to submit requests for assistance and support through our faculty-based Information Technology service team.
+
+#### **What type of support is available through Service Desk?**
+
+All requests related to information technology will be fielded through Service Desk. This includes: desktop computer support, classroom learning technology, research labs and requests for new equipment. If you previously requested a type of support via email or over the phone, it should now be submitted through Service Desk.
+
+#### **How does Service Desk work?**
+
+  * Sign in to [Service Desk](https://westernu.atlassian.net/servicedesk/customer/portal/11/group/31/) with your Western username and password
+  * Submit a ticket online through a desktop or a mobile device
+  * Ticket is 'picked up' by a member of the IT team
+  * Service is provided and progress of service requests is updated in the online system
+  * Once resolved or completed, the ticket is 'Closed'
+  * Client receives a customer service survey
+
+  
+
+
+[SUBMIT A TICKET](https://westernu.atlassian.net/servicedesk/customer/portal/11/group/31/ "Submit a Service Desk ticket")
+
+#### **Why Service Desk?**
+
+  * One stop for all IT support
+  * Desktop, classrooms, lab etc.
+  * Faster response times
+  * Tracking of project status
+  * Access to "How do I...?" database
+  * Links to central IT support
+  * **ENHANCED CUSTOMER SERVICE**
+
+
+
+### Questions about SERVICE DESK by Jira?
+
+As we work toward delivering better Information Technology customer service, we realize you may have questions. We are here to answer them for you. Feel free to contact a member of the Information Technology team, or better yet, ask your question through [SERVICE DESK by Jira](https://westernu.atlassian.net/servicedesk/customer/portal/11/group/31/) and get a jumpstart on using the new system.
+
+### Submit a Request
+
+Help with your Information Technology support needs is just a click away. Use the button below to submit a service request.
+
+[SUBMIT A TICKET](https://westernu.atlassian.net/servicedesk/customer/portal/11/group/31/ "Submit a Ticket")
+
+© 1878 - Western University
+
+  
+
+
+1151 Richmond Street  
+London, Ontario, Canada, N6A 3K7  
+[Privacy](https://www.uwo.ca/vpfinance/legalcounsel/privacy/) | [Web Standards](https://www.communications.uwo.ca/web_design/standards/) | [Terms of Use](https://www.uwo.ca/terms-of-use.html) | [Accessibility](https://accessibility.uwo.ca/)
+
+Key Topics:  
+  
+[About Us](../about/index.html)  
+[Programs](../programs/index.html)  
+[Schools](../schools/index.html)  
+[Research](../research/index.html)  
+[International](../international/index.html)  
+[Equity in FHS](../equity/index.html)  
+[News](../news/index.html)  
+[](../index.html)  
+
+
+[](https://www.facebook.com/WesternUniversity "Facebook") [](https://instagram.com/westernuniversity "Instagram") [](https://www.youtube.com/user/westernuniversity "YouTube") [](https://www.linkedin.com/school/166689/) [](https://weibo.com/westerninternational)
+
+[ ](https://www.uwo.ca "Western Home Page")
