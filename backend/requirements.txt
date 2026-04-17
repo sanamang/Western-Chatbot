@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+
+requests
+beautifulsoup4
+html2text
+tqdm
+
+faiss-cpu
+
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-vector-stores-faiss
