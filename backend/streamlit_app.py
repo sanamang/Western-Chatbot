@@ -134,7 +134,7 @@ def render_css():
 
         html, body, [class*="css"], .stApp {
             font-family: 'Inter', sans-serif !important;
-            background: #f5f4f8 !important;
+            background: #1a0d2e !important;
         }
 
         /* ── Hide default streamlit chrome ── */
@@ -149,8 +149,8 @@ def render_css():
 
         /* ── Sidebar ── */
         [data-testid="stSidebar"] {
-            background: #ffffff !important;
-            border-right: 1px solid #e8e4f0;
+            background: #120920 !important;
+            border-right: 1px solid #3b1f5e;
             width: 240px !important;
             min-width: 240px !important;
         }
@@ -158,7 +158,7 @@ def render_css():
             padding: 0 !important;
         }
         .sidebar-logo {
-            background: linear-gradient(135deg, #4F2683 0%, #6b35a8 100%);
+            background: linear-gradient(135deg, #4F2683 0%, #7c3aed 100%);
             padding: 1.4rem 1.2rem 1.2rem;
             color: white;
         }
@@ -167,16 +167,18 @@ def render_css():
             font-weight: 700;
             letter-spacing: -0.2px;
             line-height: 1.2;
+            color: #ffffff;
         }
         .sidebar-logo .sub {
             font-size: 0.7rem;
             opacity: 0.75;
             margin-top: 2px;
             font-weight: 400;
+            color: #e2d9f3;
         }
         .sidebar-logo .avatar {
             width: 36px; height: 36px;
-            background: rgba(255,255,255,0.25);
+            background: rgba(255,255,255,0.2);
             border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
             font-size: 1.1rem;
@@ -188,7 +190,7 @@ def render_css():
         .sidebar-section-label {
             font-size: 0.65rem;
             font-weight: 600;
-            color: #9ca3af;
+            color: #7c5fa8;
             text-transform: uppercase;
             letter-spacing: 0.08em;
             margin-bottom: 0.4rem;
@@ -198,21 +200,21 @@ def render_css():
             padding: 0.5rem 0.6rem;
             border-radius: 8px;
             font-size: 0.83rem;
-            color: #374151;
+            color: #c4aee0;
             cursor: pointer;
             transition: background 0.15s;
             font-weight: 500;
         }
-        .sidebar-item:hover { background: #f3f0f9; color: #4F2683; }
+        .sidebar-item:hover { background: #2d1554; color: #e2d9f3; }
         .sidebar-item.active {
-            background: #f3f0f9;
-            color: #4F2683;
+            background: #2d1554;
+            color: #d4b8ff;
             font-weight: 600;
         }
         .sidebar-item .icon { font-size: 0.9rem; width: 18px; text-align: center; }
         .upgrade-btn {
             margin: 0.5rem 1rem 1rem;
-            background: linear-gradient(135deg, #4F2683 0%, #6b35a8 100%);
+            background: linear-gradient(135deg, #4F2683 0%, #7c3aed 100%);
             color: white !important;
             border: none;
             border-radius: 10px;
@@ -222,13 +224,14 @@ def render_css():
             width: calc(100% - 2rem);
             cursor: pointer;
             text-align: center;
+            box-shadow: 0 4px 15px rgba(79,38,131,0.4);
         }
-        .sidebar-divider { border-top: 1px solid #f0edf7; margin: 0.3rem 1rem; }
+        .sidebar-divider { border-top: 1px solid #2a1245; margin: 0.3rem 1rem; }
 
         /* ── Right panel ── */
         .right-panel {
-            background: #ffffff;
-            border-left: 1px solid #e8e4f0;
+            background: #120920;
+            border-left: 1px solid #3b1f5e;
             padding: 1.2rem;
             height: 100vh;
             overflow-y: auto;
@@ -236,14 +239,14 @@ def render_css():
         .right-panel-title {
             font-size: 0.65rem;
             font-weight: 700;
-            color: #9ca3af;
+            color: #7c5fa8;
             text-transform: uppercase;
             letter-spacing: 0.08em;
             margin-bottom: 0.8rem;
         }
         .help-card {
-            background: #f9f7fd;
-            border: 1px solid #e8e4f0;
+            background: #1f0e38;
+            border: 1px solid #3b1f5e;
             border-radius: 10px;
             padding: 0.75rem;
             margin-bottom: 0.6rem;
@@ -251,18 +254,18 @@ def render_css():
             transition: all 0.15s;
         }
         .help-card:hover {
-            background: #f0ebfa;
-            border-color: #c4a8e8;
+            background: #2d1554;
+            border-color: #6b35a8;
         }
         .help-card-title {
             font-size: 0.82rem;
             font-weight: 600;
-            color: #1f2937;
+            color: #e2d9f3;
             margin-bottom: 0.2rem;
         }
         .help-card-desc {
             font-size: 0.73rem;
-            color: #6b7280;
+            color: #9b7ec8;
         }
         .campus-img {
             width: 100%;
@@ -270,11 +273,12 @@ def render_css():
             margin-top: 0.8rem;
             object-fit: cover;
             height: 110px;
+            opacity: 0.85;
         }
         .campus-label {
             font-size: 0.75rem;
             font-weight: 600;
-            color: #4F2683;
+            color: #c4aee0;
             text-align: center;
             margin-top: 0.4rem;
         }
@@ -282,33 +286,34 @@ def render_css():
         /* ── Chat area ── */
         .chat-header {
             padding: 1rem 1.5rem 0.8rem;
-            border-bottom: 1px solid #ede9f5;
-            background: white;
+            border-bottom: 1px solid #2a1245;
+            background: #1a0d2e;
             display: flex;
             align-items: center;
             gap: 0.75rem;
         }
         .chat-header-avatar {
             width: 38px; height: 38px;
-            background: linear-gradient(135deg, #4F2683, #6b35a8);
+            background: linear-gradient(135deg, #4F2683, #7c3aed);
             border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
             font-size: 1rem;
             flex-shrink: 0;
+            box-shadow: 0 0 12px rgba(124,58,237,0.4);
         }
         .chat-header-name {
             font-size: 0.95rem;
             font-weight: 700;
-            color: #1f2937;
+            color: #f0ebff;
         }
         .chat-header-status {
             font-size: 0.72rem;
-            color: #10b981;
+            color: #34d399;
             display: flex; align-items: center; gap: 0.3rem;
         }
         .status-dot {
             width: 6px; height: 6px;
-            background: #10b981;
+            background: #34d399;
             border-radius: 50%;
             display: inline-block;
         }
@@ -332,12 +337,12 @@ def render_css():
             margin-top: 2px;
         }
         .msg-avatar.ai {
-            background: linear-gradient(135deg, #4F2683, #6b35a8);
+            background: linear-gradient(135deg, #4F2683, #7c3aed);
             color: white;
         }
         .msg-avatar.user {
-            background: #e0d5f5;
-            color: #4F2683;
+            background: #2d1554;
+            color: #c4aee0;
         }
         .msg-bubble {
             max-width: 72%;
@@ -347,19 +352,20 @@ def render_css():
             line-height: 1.55;
         }
         .msg-bubble.ai {
-            background: #f4f2f9;
-            color: #1f2937;
+            background: #1f0e38;
+            color: #e2d9f3;
             border-radius: 4px 16px 16px 16px;
-            border: 1px solid #e8e4f0;
+            border: 1px solid #3b1f5e;
         }
         .msg-bubble.user {
-            background: linear-gradient(135deg, #4F2683, #6b35a8);
-            color: white;
+            background: linear-gradient(135deg, #4F2683, #7c3aed);
+            color: #ffffff;
             border-radius: 16px 16px 4px 16px;
+            box-shadow: 0 4px 15px rgba(79,38,131,0.35);
         }
         .msg-time {
             font-size: 0.65rem;
-            color: #9ca3af;
+            color: #5c3d87;
             margin-top: 4px;
             text-align: right;
         }
@@ -367,43 +373,48 @@ def render_css():
 
         /* ── Input area ── */
         .input-bar {
-            border-top: 1px solid #ede9f5;
-            background: white;
+            border-top: 1px solid #2a1245;
+            background: #1a0d2e;
             padding: 0.9rem 1.5rem;
         }
         .disclaimer {
             text-align: center;
             font-size: 0.68rem;
-            color: #9ca3af;
+            color: #5c3d87;
             padding: 0.4rem 1.5rem 0.6rem;
-            background: white;
+            background: #1a0d2e;
             letter-spacing: 0.02em;
         }
-        .disclaimer strong { color: #6b7280; }
+        .disclaimer strong { color: #7c5fa8; }
 
         /* ── Streamlit chat input override ── */
         [data-testid="stChatInput"] {
-            border: 1.5px solid #e8e4f0 !important;
+            border: 1.5px solid #3b1f5e !important;
             border-radius: 12px !important;
-            background: #faf9fd !important;
+            background: #1f0e38 !important;
+            color: #e2d9f3 !important;
         }
         [data-testid="stChatInput"]:focus-within {
-            border-color: #4F2683 !important;
-            box-shadow: 0 0 0 3px rgba(79,38,131,0.1) !important;
+            border-color: #7c3aed !important;
+            box-shadow: 0 0 0 3px rgba(124,58,237,0.2) !important;
         }
-        [data-testid="stChatInputSubmitButton"] > svg {
-            fill: #4F2683 !important;
+        [data-testid="stChatInput"] textarea {
+            color: #e2d9f3 !important;
+            background: transparent !important;
         }
-        [data-testid="stChatInputSubmitButton"] {
-            background: linear-gradient(135deg, #4F2683, #6b35a8) !important;
-            border-radius: 8px !important;
+        [data-testid="stChatInput"] textarea::placeholder {
+            color: #5c3d87 !important;
         }
         [data-testid="stChatInputSubmitButton"] > svg {
             fill: white !important;
         }
+        [data-testid="stChatInputSubmitButton"] {
+            background: linear-gradient(135deg, #4F2683, #7c3aed) !important;
+            border-radius: 8px !important;
+        }
 
         /* ── Spinner ── */
-        .stSpinner > div { border-top-color: #4F2683 !important; }
+        .stSpinner > div { border-top-color: #7c3aed !important; }
 
         /* ── Suggest buttons ── */
         .suggest-grid {
@@ -413,25 +424,25 @@ def render_css():
             padding: 0.5rem 1.5rem 0.8rem;
         }
         .suggest-chip {
-            background: #f4f2f9;
-            border: 1px solid #ddd6f3;
+            background: #1f0e38;
+            border: 1px solid #3b1f5e;
             border-radius: 20px;
             padding: 0.4rem 0.8rem;
             font-size: 0.75rem;
-            color: #4F2683;
+            color: #c4aee0;
             cursor: pointer;
             text-align: center;
             font-weight: 500;
             transition: all 0.15s;
         }
-        .suggest-chip:hover { background: #ede6f9; }
+        .suggest-chip:hover { background: #2d1554; border-color: #6b35a8; }
 
         /* ── Stbutton resets ── */
         .stButton > button {
-            background: #f4f2f9 !important;
-            border: 1px solid #ddd6f3 !important;
+            background: #1f0e38 !important;
+            border: 1px solid #3b1f5e !important;
             border-radius: 20px !important;
-            color: #4F2683 !important;
+            color: #c4aee0 !important;
             font-size: 0.75rem !important;
             font-weight: 500 !important;
             padding: 0.35rem 0.85rem !important;
@@ -440,26 +451,27 @@ def render_css():
             transition: all 0.15s !important;
         }
         .stButton > button:hover {
-            background: #ede6f9 !important;
-            border-color: #b89ee0 !important;
+            background: #2d1554 !important;
+            border-color: #6b35a8 !important;
+            color: #e2d9f3 !important;
         }
         .clear-btn > button {
-            background: white !important;
-            border: 1px solid #e5e7eb !important;
+            background: #1f0e38 !important;
+            border: 1px solid #3b1f5e !important;
             border-radius: 8px !important;
-            color: #6b7280 !important;
+            color: #7c5fa8 !important;
             font-size: 0.75rem !important;
         }
         .clear-btn > button:hover {
-            background: #fef2f2 !important;
-            border-color: #fca5a5 !important;
+            background: #2d0a0a !important;
+            border-color: #ef4444 !important;
             color: #ef4444 !important;
         }
 
         /* scrollbar */
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background: #d4c9ed; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb { background: #3b1f5e; border-radius: 4px; }
         </style>
         """,
         unsafe_allow_html=True,
@@ -599,7 +611,7 @@ def main():
         # Suggested questions (only on fresh chat)
         if len(st.session_state.messages) == 1:
             st.markdown('<div style="padding: 0.8rem 1.5rem 0.3rem;">'
-                        '<span style="font-size:0.72rem;color:#9ca3af;font-weight:600;'
+                        '<span style="font-size:0.72rem;color:#7c5fa8;font-weight:600;'
                         'text-transform:uppercase;letter-spacing:0.06em;">Quick questions</span>'
                         '</div>', unsafe_allow_html=True)
             cols = st.columns(2)
